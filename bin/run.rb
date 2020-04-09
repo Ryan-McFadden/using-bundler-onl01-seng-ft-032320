@@ -1,4 +1,4 @@
-require_relative "../config/envioroment"
+require_relative "../config/enviroment"
 
 Sinatra
 Octokit
